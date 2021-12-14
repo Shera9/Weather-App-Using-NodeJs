@@ -1,0 +1,22 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "creating a weather nodejs App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shera9/Weather-App-Using-NodeJs.git"
+  },
+  "author": "Shafi Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shera9/Weather-App-Using-NodeJs/issues"
+  },
+  "homepage": "https://github.com/Shera9/Weather-App-Using-NodeJs#readme",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
